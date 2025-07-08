@@ -1,97 +1,94 @@
 # Adam Ben Oudda
 
-**High-Discipline Engineer in Training | Systems Builder | Age 16**  
-Delivering clean, production-grade analytics infrastructure — with the focus, structure, and discipline of a senior engineer.
+**Precision-Built Systems. Zero Fluff. Age 16.**  
+→ Data & Analytics Engineer in Training | Building With Production Discipline
 
 ---
 
-## 💼 Mission
+## 🧠 Who I Am
 
-I’m not here to learn how to code. I’m here to engineer systems that perform.  
-At 16, I’ve trained and operated independently — building intelligent data pipelines, real-time forecasting dashboards, and automated alert systems with the architecture, clarity, and modularity of production-grade software.
+I’m 16 — and I’ve already decided I won’t wait for permission to build like a professional.  
+I treat every project like it’s headed to production.  
+Every file, every test, every line of code is written with long-term clarity in mind.
 
-This profile isn’t about experimentation — it’s about execution.
-
----
-
-## 🧠 Technical Focus
-
-| Area                         | What I Deliver                                                  |
-|------------------------------|------------------------------------------------------------------|
-| **Data Systems Engineering** | Modular analytics tools with Git-controlled architecture         |
-| **Forecasting Intelligence** | Custom churn/revenue models integrated into real dashboards      |
-| **Real-Time Dashboards**     | Streamlit-powered UIs with dynamic filtering and visual feedback |
-| **Alert Automation**         | Email notifications & reports with trigger-based logic           |
-| **CI-Ready Testing**         | PyTest coverage, schema validation, test fixtures                |
-| **Containerization**         | Dockerized apps with `.env` config and environment parity        |
-| **Docs & Communication**     | Clear, useful README files + in-code documentation               |
+This isn’t a portfolio of side projects.  
+This is an evolving **engineering track record** — built in public, under pressure, with purpose.
 
 ---
 
-## 🚧 Flagship Project (WIP)
+## 🚀 What I’m Building
 
-### 📊 **Entreprise KPI Dashboard**  
-An enterprise-grade, full-stack KPI system with modular design, real-time analytics, and embedded intelligence.
+### 📊 Entreprise KPI Dashboard *(In Progress — Core System)*
 
-**Core Features:**
-- Forecasting models for churn and revenue  
-- Executive KPIs with responsive filters and charting  
-- Alerting system with automated email reports  
-- Fully Dockerized and Git-based for deployment control  
-- PyTest suite with schema and behavior validation
+A full-scale, modular business intelligence dashboard built with enterprise engineering principles:
 
-🗂️ [View Project Repo](In process)
+| Module                  | Status   | Highlights                                                  |
+|------------------------|----------|-------------------------------------------------------------|
+| `📈 Forecasting`         | ⚙️ Built   | Custom churn & revenue prediction logic (Python, pandas)     |
+| `📊 Visualization`       | ⚙️ Built   | Real-time Streamlit dashboard with filters & KPI cards       |
+| `📧 Alerting & Reports`  | 🛠️ Draft  | Auto email pipeline with condition-based logic               |
+| `🧪 Testing`             | ⚙️ Built   | PyTest + schema validation + isolated fixtures               |
+| `🐳 Deployment`          | 🛠️ Draft  | Dockerized, environment-isolated build, `.env` managed       |
 
-> *Actively developed to meet real business and technical requirements, not just coursework.*
+🧠 Fully modular | Git-managed | CI-ready structure
+
+🔗 **[View Repo](in progress)**
 
 ---
 
-## 📜 Certifications (Applied in Production Code)
+## 📜 Certifications That Power My Code
 
-**IBM Professional Track**  
+I don’t collect certifications. I use them as **launchpads**.
+
+**📘 IBM Professional Certifications**  
 - Machine Learning with Python  
 - Python for Data Science  
-- SQL and Relational Databases  
 - Data Analysis with Python  
-- Cloud Computing  
-- Emerging Technologies
+- SQL & Relational Databases  
+- Cloud Computing Fundamentals  
+- Emerging Technologies in Data
 
-**University of Michigan – Applied Data Science with Python (5-Course Specialization)**  
-- Applied Text Mining  
+**📘 University of Michigan (Applied Data Science Specialization)**  
+- Applied Text Mining in Python  
 - Applied Data Visualization  
 - Data Science Methodology  
-- Introduction to Data Science in Python  
+- Intro to Python for Data Science  
 - Applied Plotting & Charting
 
-> *13+ verified certifications — no fluff, no theory hoarding. Everything applied in code.*
+---
+
+## 🔧 Core Technical Strengths
+
+✅ **Forecasting-Driven Systems**  
+Custom predictive logic — from notebook experiments to reusable modules  
+
+✅ **Streamlit UI Engineering**  
+Real-time metrics, interactivity, chart responsiveness, executive usability  
+
+✅ **Testing & Validation**  
+PyTest + schema validation across pipeline logic and interface endpoints  
+
+✅ **Architecture & Deployment**  
+Clean architecture, Docker setup, `.env` configs, production-minded planning  
+
+✅ **End-to-End Ownership**  
+No hand-offs — I build, test, and manage from development through delivery  
+
+✅ **Documentation & Communication**  
+Clear READMEs, inline comments, and external docs with client-facing clarity  
 
 ---
 
-## 📈 Work Ethic
+## 🔍 Looking For
 
-- ✅ I work 6–10 hours daily on systems architecture and development  
-- ✅ I prioritize discipline over experimentation — every project has structure, intent, and follow-through  
-- ✅ I write documentation and commit histories like an engineer, not a student
-
-This is not a career I’m planning. This is the career I’m already executing.
+- Remote freelance projects that require analytics tooling, forecasting, or dashboards  
+- Internship-style learning opportunities under real systems engineers  
+- Challenges where execution matters more than credentials
 
 ---
 
-## 💬 Open To
-
-- Freelance opportunities: dashboards, forecasting systems, infrastructure  
-- Remote technical internships or hands-on mentoring  
-- Client work that requires professionalism and execution speed
-
----
-
-## 📫 Let’s Connect
+## 📫 Contact
 
 - 📧 [adambenoudda.ma@gmail.com]  
 - 🔗 [LinkedIn](In progress)  
-- 💼 [GitHub](https://github.com/Adam-Ben-oudda)
-
----
-
-> “Age is not a limitation. Poor standards are. I operate with none.”
-
+- 💼 [GitHub Portfolio](https://github.com/Adam-Ben-oudda)
