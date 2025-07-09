@@ -47,7 +47,7 @@ I partner **intentionally**.
 
 If you’re looking for someone who writes clean code, thinks like a systems architect, and delivers like a full team — let’s connect.
 
-**📩 Contact**: [LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your@email.com)
+**📩 Contact**: [LinkedIn](Comming soon) • [Email](adambenoudda@gmail.com)
 
 ---
 
