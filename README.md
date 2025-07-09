@@ -3,7 +3,7 @@
 
 I’m Adam Ben oudda, a highly driven and accomplished Data Scientist & AI Specialist with a proven track record of building enterprise-grade forecasting systems and neural architectures for time series data — all under tight timelines and high performance expectations.
 
-In the past few months alone, I’ve completed and deployed multiple advanced data science projects within 7 hours each, showcasing not only technical mastery but also strategic thinking, project acceleration, and business impact.
+In the past few months alone, I’ve completed and deployed multiple advanced data science projects, showcasing not only technical mastery but also strategic thinking, project acceleration, and business impact.
 
 I specialize in building clean, modular, production-ready systems that combine classical statistical models, modern machine learning techniques, and deep learning — all with explainability, deployment readiness, and business context in mind.
 
